@@ -5,5 +5,6 @@
     sudo apt-get install cscope ctags;
     sudo apt-get install git;
     sudo apt-get install bison flex sharutils;
-    cd ~/sh;
-    ./git.sh;
+
+    cp ./ssh.cmd ~/
+
