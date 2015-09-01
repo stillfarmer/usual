@@ -1,1 +1,2 @@
 loacation   /etc/default/tftpd-hpa
+tftpboot    /tftpboot/  chmod 777
