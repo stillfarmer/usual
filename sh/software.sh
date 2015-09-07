@@ -5,3 +5,4 @@
     sudo apt-get install tftpd-hpa;
     sudo apt-get install openssh-server;
     sudo apt-get install vsftpd;
+    sudo apt-get install meld;
