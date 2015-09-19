@@ -6,3 +6,5 @@
     sudo apt-get install openssh-server;
     sudo apt-get install vsftpd;
     sudo apt-get install meld;
+    sudo apt-get install vlan;
+    sudo apt-get install tree;
