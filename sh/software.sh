@@ -8,3 +8,4 @@
     sudo apt-get install meld;
     sudo apt-get install vlan;
     sudo apt-get install tree;
+    sudo apt-get install gettext;
