@@ -11,3 +11,4 @@
     sudo apt-get install gettext;
 	sudo apt-get install mktemp;
 	sudo apt-get install dpkg;
+	sudo apt-get install libcurl4-openssh-dev;
