@@ -9,3 +9,5 @@
     sudo apt-get install vlan;
     sudo apt-get install tree;
     sudo apt-get install gettext;
+	sudo apt-get install mktemp;
+	sudo apt-get install dpkg;
