@@ -1,2 +1,2 @@
 #!/bin/sh
-    ssh -f -X wudi@172.17.226.32 /usr/bin/gnome-terminal;
+    ssh -f -X gaojing@172.17.60.153 /usr/bin/gnome-terminal;

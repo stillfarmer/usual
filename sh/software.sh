@@ -12,3 +12,6 @@
 	sudo apt-get install mktemp;
 	sudo apt-get install dpkg;
 	sudo apt-get install libcurl4-openssh-dev;
+
+	sudo apt-get install vim-scripts;
+	vim-addons install taglist;
