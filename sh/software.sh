@@ -14,4 +14,5 @@
 	sudo apt-get install libcurl4-openssh-dev;
 
 	sudo apt-get install vim-scripts;
+	sudo apt-get install unrar;
 	vim-addons install taglist;
